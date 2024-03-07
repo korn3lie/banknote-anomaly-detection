@@ -5,7 +5,7 @@
 An application of the paper [Reconstruction by inpainting for visual anomaly detection](http://www.sciencedirect.com/science/article/pii/S0031320320305094) (RIAD) in PyTorch.
 
 ## Results Sample
-![avatar](results/00020.png) 
+![avatar](00020.png) 
 
 ## References
 Vitjan Zavrtanik, Matej Kristan, Danijel Skčaj,<br>
